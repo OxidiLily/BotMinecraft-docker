@@ -36,7 +36,7 @@
    CMD [ "npm","run", "start" ]
 5. Build image Docker
    ```
-   docker build -t [name]:[version] 
+   docker build -t [name]:[version] .
 6. Example:
    ```
    docker build -t js/botafk:1.0.0 .
