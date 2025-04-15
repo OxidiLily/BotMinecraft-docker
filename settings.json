@@ -14,12 +14,16 @@
       "chat-messages": {
         "enabled": true,
         "repeat": true,
-        "repeat-delay": 20,
+        "repeat-delay": 60,
   
         "messages": [
-          "Hello Ges ",
-          "P Balap ",
-          "P inpo"
+          "Selamat Datang Di Server OxidiLily",
+          "Selamat Bermain Di Server OxidiLily",
+          "Jangan Lupa Menjaga Kesehatan",
+          "Jangan Lupa Minum",
+          "Jangan Lupa Makan",
+          "Jangan Lupa Tidur",
+          "Nanti Kalau Sakit Tidak Bisa Main Lagi (>_<)"
         ]
       },
   
