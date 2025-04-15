@@ -8,4 +8,4 @@ RUN npm i
 
 COPY . .
 
-CMD [ "npm","run", "start" ]
+ENTRYPOINT [ "npm start" ]
