@@ -8,7 +8,5 @@ RUN npm i
 
 COPY . .
 
-RUN npm audit fix
-
 
 CMD [ "npm","run", "start" ]
